@@ -36,8 +36,8 @@ public class LoginPageStepDef {
 
     @Given("I have entered a valid username and password")
     public void i_have_entered_a_valid_username_and_password() {
-        loginPage.enterEmail("qatestertest@gmail.com");
-        loginPage.enterPassword("Test@123");
+        loginPage.enterEmail("raunaq90@ymail.com");
+        loginPage.enterPassword("Password@1");
     }
 
     @When("I click on the login button")
@@ -47,7 +47,7 @@ public class LoginPageStepDef {
 
     @Then("I should be logged in successfully")
     public void i_should_be_logged_in_successfully() {
-        Assert.assertEquals(loginPage.checkLogoutLink(),true);
+        Assert.assertTrue(loginPage.checkLogoutLink());
     }
 
     @Given("I have entered invalid {string} and {string}")
