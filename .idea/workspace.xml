@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443109bb-2982-460b-9c88-0eaede3a62a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/extent-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/extent-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/extent.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/extent.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +89,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Skrillex\IdeaProjects\Java_CucumberBDD_TestAutomation_Framework\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Skrillex\IdeaProjects\Java_CucumberBDD_TestAutomation_Framework" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="runner" />
